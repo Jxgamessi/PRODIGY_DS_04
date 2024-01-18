@@ -1,0 +1,6 @@
+id,text,sentiment
+1,I love this product!,Positive
+2,Not happy with the service.,Negative
+3,"It's okay, not great.",Neutral
+4,Amazing experience!,Positive
+5,Terrible customer support.,Negative
